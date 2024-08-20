@@ -13,3 +13,7 @@ Simple Model to detect Gender and Age of an Individual for hair loss
 3. Upload the image you want to detect
 4. View Results
 
+# Sample Output
+1. [Output_1](https://github.com/aditya2368/hair_loss_detection_model/blob/main/Output_1.png)
+2. [Output_2](https://github.com/aditya2368/hair_loss_detection_model/blob/main/Output_2.png)
+
